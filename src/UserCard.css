@@ -1,0 +1,17 @@
+
+.card{
+    background: #0ff1cb;  
+    width: 450px;
+    height: 250px;
+    box-shadow: 0 8px 16px -8px rgba(0, 0, 0, 0.4);
+    border-radius: 6px;
+    
+}
+
+h1{
+    font-family: Abel;
+    font-size: 2rem;
+    color: royalblue;
+}
+
+
